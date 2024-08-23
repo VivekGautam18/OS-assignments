@@ -38,6 +38,6 @@ int main(){
     }
     inputfile.close();
     outputfile.close();
-
+    cout << "content of input file copied to output file !!!" << endl;
     return 0;
 }
